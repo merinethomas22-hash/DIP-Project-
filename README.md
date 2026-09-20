@@ -1,1 +1,1 @@
-# fruit_segmentation
+# fruit segmentation
